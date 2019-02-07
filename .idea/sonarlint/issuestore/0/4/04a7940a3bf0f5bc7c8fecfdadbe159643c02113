@@ -1,6 +1,6 @@
 
-Tsquid:S1481"1Remove this unused "isPalindrome" local variable.(ò¸”Ùüÿÿÿÿ8ß›Ëˆ-
-‚squid:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Øêìíøÿÿÿÿ8ªìËˆ-
 dsquid:S1126""AReplace this if-then-else statement by a single return statement.(ø¦Òûÿÿÿÿ8áä¡Ëˆ-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(—Úƒ­şÿÿÿÿ8œÒ£Ëˆ-
+‚squid:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Øêìíøÿÿÿÿ8ªìËˆ-
+Tsquid:S1481"1Remove this unused "isPalindrome" local variable.(ò¸”Ùüÿÿÿÿ8ß›Ëˆ-
