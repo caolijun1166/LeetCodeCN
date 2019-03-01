@@ -1,5 +1,5 @@
 
-^squid:S1126K"AReplace this if-then-else statement by a single return statement.(üë48‘ı‡-
 [squid:S1197A"8Move the array designator from the variable to the type.(ÀÒƒüÿÿÿÿ8Ó§ˆ-
+^squid:S1126K"AReplace this if-then-else statement by a single return statement.(üë48‘ı‡-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(¥æ¿®8¦üµ…-

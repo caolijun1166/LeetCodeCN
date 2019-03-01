@@ -13,3 +13,5 @@ $src/main/java/simple/Palindrome.java,0\4\04a7940a3bf0f5bc7c8fecfdadbe159643c02
 -src/main/java/simple/LongestCommonPrefix.java,c\b\cb63b1f1b4b9dbf62f69b2356959e4e173b215c3
 X
 (src/main/java/simple/BracketIsValid.java,1\e\1ebe295f6b559d9f33a226d05535da24a48f1655
+X
+(src/main/java/simple/AddToArrayForm.java,d\5\d5c43297158fe47608c7f2c2e99c568e79d15cbe
